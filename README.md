@@ -1,1 +1,1 @@
-Esto no es ningún proyecto, ni nada por estilo, es más que nada una demostración de lo que he aprendido de Python, además, de tener algún que otro comentario para que sea de mayor facilidad el entendimiento de los conceptos.
+Esto no es ningún proyecto, ni nada por estilo, es más que nada una demostración de lo que he aprendido de Python. Además, de tener algún que otro comentario para que sea de mayor facilidad el entendimiento de los conceptos.
